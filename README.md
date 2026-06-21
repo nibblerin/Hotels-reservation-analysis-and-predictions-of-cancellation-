@@ -8,3 +8,5 @@ The project consists of several key parts:
 4. Model training and evaluation (Logistic Regression and CatBoost).
 5. Using permutation importance to identify the most important features affecting cancellations.
 6. Visualizing important features with Partial Dependence Plots and SHAP for specific customer segments.
+  
+A Streamlit web application (app.py) was developed to provide an interactive interface for making predictions using the trained model
